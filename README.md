@@ -1,3 +1,3 @@
 # Auth Keys (Pub)
 
-cmadestd (personal pc):  
+- cmaddev (personal pc): STUDY_personal.pub
